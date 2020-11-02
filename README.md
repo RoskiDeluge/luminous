@@ -1,12 +1,12 @@
 # the luminous
 
-10-30-20
+10-30-20 \
 What were the guiding metaphors for a world that had not yet pictured itself? I mean pictured in the sense of acurately rendered itself in high resolution at normal, everyday speeds. We have a picture of ourselves that is determined in part by the ready availability of photographic equipment. How we picture ourselves may be another way of  saying how we imagine being photographed. But what about conditions where photography is being overtaken by other forms of representational media? Conditions where a machine can create, hold, and think about a pictures of ourselves? 
 
-8-11-20
+8-11-20 \
 From my absolute point of view there is nothing external. This is solipsistic, but it's also unavoidable. I can't be shamed out of this perspective. It won't do to listen to the millionth sage telling me that my perspective is not the only one. The only thing that's started to dislodge this view from my mind has been the *virtual* versus *actual* distinction defined by Bergson and developed by Deleuze. As I understand it, our conception of time as a linear phenomenon encourages us to think that neither the past nor the future have any real existence. Only the present moment really exists. In Bergson's conception of time, however, the past and the future both exist and have the same weight as the present moment of our actuality, except they exist in a different way, they exist virtually. Deleuze extends this view beyond time to ontology. Our being also has virtual and actual aspects, or states, that are equally weighted in our lives. 
 
-8-6-20
+8-6-20 \
 My first thought was that immediacy is an illusion. But then I realized that immediacy is actually truth. We're so immersed in a mediated world that any appeal to immediacy seems false, which in turn makes immediacy itself seem false, but this is a mistake. What I mean by mediated is that our day to day lives wouldn't be the same without engaging in mediations. By mediation I mean any activity that transports us mentally to some other place where we receive a message, are "re-mediated" or even "de-mediated". The mediation process is more or less hidden, more or less felt. The process is subtle to the point of being invisible.
 
 Mediations consummate to the degree of their immediacy. There's an unsteady nature to our everpresent mediations. On the one hand, they fundamentally shape our conceptions, which in turn radically affect our lives. On the other hand, as mediations reach toward immediacy and take on a near indistinguisable appearance of immediacy, they eventually stop short of the immediate, and this relegates them to a secondary place. This seconary role could be so close to what's primary in us as to be nearly indistiguishable from it, nevertheless it is secondary. All mediations are secondary. The immediate is primary. 
@@ -17,8 +17,8 @@ https://lucian.uchicago.edu/blogs/mediatheory/keywords/mediation/
 https://lucian.uchicago.edu/blogs/mediatheory/keywords/immediacyimmediate/
 
 
-6/16/20 - Drawing with light. Photography: an apex in the quest to create a perfect replica of vision (or: our sense of sight). The photograph: or, the subject and predicate of vision. The phenomenon of vision is made concrete/reified in the photograph. Now this visual legacy, grammar, and technical ability is being transferred to machines. We enhanced our sense of sight (McLuhan) through photography and it also allowed us to extended the range of our vision. But this development occurred within a anthropocentric space. The space is now encompassing the non-human through AI (computer vision, neural networks, etc.) But this latest extension doesn't mean that the potential of photography for molding our visual sense is ending. On the contrary, the photograph is now the means for an other (a machine is the ultimate "other") to enhance and extend its visual sense.
+6/16/20 \
+Drawing with light. Photography: an apex in the quest to create a perfect replica of vision (or: our sense of sight). The photograph: or, the subject and predicate of vision. The phenomenon of vision is made concrete/reified in the photograph. Now this visual legacy, grammar, and technical ability is being transferred to machines. We enhanced our sense of sight (McLuhan) through photography and it also allowed us to extended the range of our vision. But this development occurred within a anthropocentric space. The space is now encompassing the non-human through AI (computer vision, neural networks, etc.) But this latest extension doesn't mean that the potential of photography for molding our visual sense is ending. On the contrary, the photograph is now the means for an other (a machine is the ultimate "other") to enhance and extend its visual sense.
 
-5/11/20
-
+5/11/20 \
 Photography has been, in part, technical progress in the capturing of photons on media, whether analog (grains) or digital (pixels). I've been thinking about how this process is being reversed with generative AI's (fake photos, etc) that take digital photos as inputs in the form of training sets in order to produce other digital photos as outputs. So, in a way, this can be thought of as capturing electrons to produce photons. Is "photography" still an appropriate name for this type of activity? 
