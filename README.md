@@ -1,4 +1,4 @@
-# luminous
+# the luminous
 
 10-30-20
 What were the guiding metaphors for a world that had not yet pictured itself? I mean pictured in the sense of acurately rendered itself in high resolution at normal, everyday speeds. We have a picture of ourselves that is determined in part by the ready availability of photographic equipment. How we picture ourselves may be another way of  saying how we imagine being photographed. But what about conditions where photography is being overtaken by other forms of representational media? Conditions where a machine can create, hold, and think about a pictures of ourselves? 
