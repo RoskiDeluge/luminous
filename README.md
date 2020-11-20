@@ -1,5 +1,12 @@
 # the luminous
 
+11-19-20 \
+Artificial Intelligence as the latest communications medium.
+
+Media were information conveyors (Shannon), gatekeepers (Laswell), extensions of our our senses (McLuhan), agenda setters (Chomsky & Herman).
+
+The ability of AI to take on a mediating role seems innocuous now in the context of ham fisted agents like Alexa, Siri, Watson, Cortana, and "Hey Google." But those personifications of this medium are as removed from their final form, as the telegraph was from the electric telegraph (Gleick 2011).
+
 11-5-20 \
 The process of abstraction feeds back into the process of acceleration, reaching toward a limit point, an asymptotic dynamic.
 
