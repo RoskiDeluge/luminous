@@ -1,5 +1,11 @@
 # the luminous
 
+2-13-21 \
+Photography lets us see aspects of the world that weren't seen before. It also created more ways to see the world. Computation is also extending our senses in an analogous way, teasing out more aspects of the world that weren't experienced before, but it may also be re-creating and thus transforming as aspect of life itself.
+
+2-1-21 \
+When I dialog with an algorithm, what are the results? How does this affect me in a spiritual sense? We're already talking with algorithms everyday via the extended minds embedded in our devices. What kind of a change is this? Husserl gives special prominence to the unifying role of communication as the backdrop of civilization. This was the way we humans could empathize primitively and progressively through idealizing the self-evident through words. But word as event seems like an incredibly refined production in relation to gestures and sounds and sights. Does the development of a machine's sense inputs follow our own? Does it have to in order for the inputs to better map onto those we can recognize as possibly being produced by an intelligence like ours? AI is late in our evolutionary history but early in its own. Our minds are already hybrids or cyborgs, it's just that the part that's artificial is held in black boxes on servers that we don't own and that operate based on a code that we didn't write.
+
 11-19-20 \
 Artificial Intelligence as the latest communications medium.
 
