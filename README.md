@@ -1,4 +1,4 @@
-# the luminous
+# Zahir
 
 2-13-21 \
 Photography lets us see aspects of the world that weren't seen before. It also created more ways to see the world. Computation is also extending our senses in an analogous way, teasing out more aspects of the world that weren't experienced before, but it may also be re-creating and thus transforming aspects of life itself. Perhaps an impressionistic way of stating the same thing is, we learned by creating more refined pictures of the world and now we're learning by creating the being itself that constitutes the world.
